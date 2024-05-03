@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pirate Scene.unity
+    guid: f9960d9c0abdc714e8bf51ba2ce27f10
   m_configObjects: {}
